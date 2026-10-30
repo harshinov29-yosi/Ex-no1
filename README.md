@@ -62,7 +62,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/5bfdce12-f83c-45b7-830f-e03c68194c42" />
 
 ---
 
@@ -114,7 +114,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1080" height="717" alt="image" src="https://github.com/user-attachments/assets/a4ae56ec-a820-45dc-ae59-0a9d052d4239" />
 
 ---
 
@@ -134,8 +134,6 @@ END
 ##FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -164,7 +162,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1080" height="774" alt="image" src="https://github.com/user-attachments/assets/0cb1cd62-8e6e-4487-98d4-8f2de083e295" />
 
 ---
 
@@ -210,7 +208,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1080" height="798" alt="image" src="https://github.com/user-attachments/assets/10295309-772d-4b0c-b317-ef2619375da0" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
